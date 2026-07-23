@@ -6,7 +6,7 @@ Right now looking into old classic C
 # I, more or less, worked with
 <div style="display:flex;justify-content:space-evenly">
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/csharp.png" height="75">
-<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/asp-net-core.png" height=75>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/dotnet.png" height=75>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/unity-dark.png" height=75>
 </div>
 
