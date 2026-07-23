@@ -14,7 +14,7 @@ Right now looking into old classic C
 
 <div style="display:flex;justify-content:space-evenly">
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/java.png" height=75>
-<img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height=75>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/spigotmc.png" height=75>
 </div>
 
 ---
